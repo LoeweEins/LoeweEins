@@ -14,11 +14,15 @@
 ---
 
 ## 🔧 Tech Stack
-- **Robotics & Simulation**: COMSOL, SolidWorks, MATLAB
-- **Algorithms**: Optimization, PSO, SAPSO, control theory
-- **Programming**: Python, Java, MATLAB
-- **Automation**: Appium, Selenium, Pytest, Self-programmed framework
-- **Wireless Communication**: Near-field MIMO, XL-MIMO, IRS
+**Robotics & Simulation**: COMSOL, SolidWorks, MATLAB
+
+**Algorithms**: Optimization, PSO, SAPSO, control theory
+
+**Programming**: Python, Java, MATLAB
+
+**Automation**: Appium, Selenium, Pytest, Self-programmed framework
+
+**Wireless Communication**: Near-field MIMO, XL-MIMO, IRS
 
 ---
 
