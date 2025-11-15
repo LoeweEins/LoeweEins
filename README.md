@@ -1,9 +1,13 @@
 # 👋 Hi, I'm LoeweEins
 
 🎓 Graduate Student @ SUSTech  
+
 🤖 Research: Micro/Nano Robotics, Magnetic Control, Swarm Intelligence
+
 📡 Previously: Near-field MIMO, Movable Antenna, IRS, PSO optimization
+
 🧪 Tools: MATLAB | Python | COMSOL | Selenium | Java  
+
 📝 Currently exploring: microrobot 3D navigation & Helmholtz coil systems
 
 
