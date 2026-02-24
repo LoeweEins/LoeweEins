@@ -6,7 +6,7 @@
 
 📡 Previously: Near-field MIMO, Movable Antenna, IRS, PSO optimization
 
-🧪 Tools: MATLAB | Python | COMSOL | Selenium | Java  
+🧪 Tools: MATLAB | Python | COMSOL  | Java  
 
 📝 Currently exploring: microrobot 3D navigation & Helmholtz coil systems
 
